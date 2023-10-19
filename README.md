@@ -63,10 +63,3 @@ preferably at a regular weekly time. In the meeting the group updates:
 
 > Everyone may not be able to participate to all meetings, but at least a couple of members should be present in each meeting. 
 > Regular absence from meetings will affect in individual evaluation.
-
-# Source code documentation
-It is strongly recommended to use Doxygen to document your source code.
-Please go over the *Project Guidelines* for details.
-
-# TODOs
-The team is planning to use Gitlab jira-like tools to select and close tickets
